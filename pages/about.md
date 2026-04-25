@@ -5,6 +5,12 @@ permalink: /about.html
 credits: true
 ---
 
+<style>
+    .jumbotron {
+        background-position: top !important;
+    }
+</style>
+
 {% include feature/jumbotron.html objectid="objects/RURU.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;Project Credits" %}
@@ -22,7 +28,7 @@ This site was generated using [CollectionBuilder-GH](https://github.io) to creat
 
 ## Project Credits
 
-This digital collection was led and developed by **Rhoncie Krebs Ibarra**. 
+This archive was led and developed by **Rhoncie Krebs Ibarra**. 
 
 **Group Members:**
 - Angelo Reyes
