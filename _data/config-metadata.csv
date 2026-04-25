@@ -1,6 +1,6 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
+director,Director,
 date,Date Created,
 description,Description,
 subject,Subjects,true
@@ -8,6 +8,7 @@ location,Location
 latitude,Latitude
 longitude,Longitude
 source,Source
+link, Link
 identifier,Source Identifier,,
 type,Type,
 format,Format,
