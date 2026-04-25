@@ -11,7 +11,7 @@ credits: true
     }
 </style>
 
-{% include feature/jumbotron.html objectid="objects/RURU.jpg" %}
+{% include feature/jumbotron.html objectid="objects/ru.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;Project Credits" %}
 
