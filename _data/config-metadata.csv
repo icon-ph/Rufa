@@ -2,13 +2,13 @@ field,display_name,browse_link,external_link
 title,Title,true,
 director,Director,true,
 date,Date Created,true,
-description,Description,,
+description,Description,true,
 subject,Subjects,true,
 location,Location,true,
 latitude,Latitude,,
 longitude,Longitude,,
 source,Source,true,
-link,Link,true,true
+links,Link,true,true
 identifier,Source Identifier,,
 type,Type,,
 format,Format,,
