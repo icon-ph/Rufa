@@ -1,5 +1,5 @@
 ---
-title: The Comedy Princess: Rufa Mae Quinto Collection
+title: "The Comedy Princess: Rufa Mae Quinto Collection"
 layout: about
 permalink: /about.html
 credits: true
@@ -18,7 +18,7 @@ The collection features:
 - Significant digital interviews and personal vlogs from 2024 to 2026.
 - Metadata documenting production rights, locations, and historical dates.
 
-This site was generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/) to create a simple, accessible digital archive of her legacy.
+This site was generated using [CollectionBuilder-GH](https://github.io) to create a simple, accessible digital archive of her legacy.
 
 ## Project Credits
 
@@ -32,5 +32,3 @@ This project is submitted in partial fulfillment of the requirements for the sub
 
 ---
 *Go, go, go! Todo na 'to!*
-
-
