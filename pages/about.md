@@ -7,7 +7,7 @@ credits: true
 
 <style>
     .jumbotron {
-        background-position: top !important;
+        background-position: center !important;
     }
 </style>
 
