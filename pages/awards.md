@@ -10,7 +10,7 @@ permalink: /awards.html
     }
 </style>
 
-{% include feature/jumbotron.html objectid="objects/RURU.jpg" %}
+{% include feature/jumbotron.html objectid="objects/awar.jpg" %}
 
 ## Accolades of the Comedy Princess
 
@@ -20,9 +20,9 @@ Rufa Mae Quinto’s career is defined by her record-breaking success in Philippi
 
 ### Major Achievements
 
-{% include feature/card.html header="Historic Record" title="10-time Best Comedy Actress" text="Hold the all-time record for most wins in the PMPC Star Awards for Television for 'Bubble Gang' and 'Idol Ko si Kap'." objectid="objects/RURU.jpg" width="50" %}
+{% include feature/card.html header="Historic Record" title="10-time Best Comedy Actress" text="Hold the all-time record for most wins in the PMPC Star Awards for Television for 'Bubble Gang' and 'Idol Ko si Kap'." objectid="objects/p.jpg" width="50" %}
 
-{% include feature/card.html header="Recent Triumph" title="Ultimate Good Vibes Award" text="Recipient of the 2026 'Your Face Sounds Familiar' special award for her iconic comedic transformations." objectid="objects/RURU.jpg" width="50" %}
+{% include feature/card.html header="Recent Triumph" title="Ultimate Good Vibes Award" text="Recipient of the 2026 'Your Face Sounds Familiar' special award for her iconic comedic transformations." objectid="objects/t.jpg" width="50" %}
 
 ---
 
