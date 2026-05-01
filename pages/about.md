@@ -28,13 +28,13 @@ This site was generated using [CollectionBuilder-GH](https://github.io) to creat
 
 ## Project Credits
 
-This archive was led and developed by **Rhoncie Krebs Ibarra**. 
+This database was led and developed by **Rhoncie Krebs Ibarra**. 
 
 **Group Members:**
 - Angelo Reyes
 - Christine Presente
 
-This project is submitted in partial fulfillment of the requirements for the subject **Art Appreciation**. It serves as a creative study of performance art, comedic timing, and the enduring cultural impact of mainstream media icons in the Philippines, specifically focusing on the legacy of Rufa Mae Quinto.
+In partial fulfillment of the requirements for the subject **ART003: Arts Appreciation (2nd Semester, AY 2025–2026)** under the guidance of **Prof. Adrian Mendizabal.**. It serves as a creative study of performance art, comedic timing, and the enduring cultural impact of mainstream media icons in the Philippines, specifically focusing on the legacy of Rufa Mae Quinto.
 
 ---
 *Go, go, go! Todo na 'to!*
